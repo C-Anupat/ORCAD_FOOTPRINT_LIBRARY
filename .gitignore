@@ -4,5 +4,8 @@
 !/padstacks
 !/padstacks/*
 !/symbols
+!/symbols/*.dra
+!/symbols/*.psm
+!/symbols/*.txt
 !/step
 !/step/*
