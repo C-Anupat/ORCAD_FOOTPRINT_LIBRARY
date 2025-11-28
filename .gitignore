@@ -2,5 +2,6 @@
 
 !.gitignore
 !/padstacks
+!/padstacks/*
 ! symbols/
 ! steps/
