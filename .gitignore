@@ -2,7 +2,7 @@
 
 !.gitignore
 !/padstacks
-!/padstacks/*
+!/padstacks/*.pad
 !/symbols
 !/symbols/*.dra
 !/symbols/*.psm
