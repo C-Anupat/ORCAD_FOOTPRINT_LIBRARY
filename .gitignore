@@ -1,6 +1,13 @@
 *
 # Padstack files
+!/padstacks
 !/padstacks/*.pad
+!/padstacks/MISC
+!/padstacks/MNPTH
+!/padstacks/MPTH
+!/padstacks/NPTH
+!/padstacks/PTH
+!/padstacks/VIA
 !/padstacks/MISC/*.pad
 !/padstacks/MNPTH/*.pad
 !/padstacks/MPTH/*.pad
