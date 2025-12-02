@@ -20,6 +20,9 @@
 !/symbols/*.dra
 !/symbols/*.psm
 !/symbols/*.txt
+!/symbols/MISC
+!/symbols/MISC/*.dra
+!/symbols/MISC/*.psm
 
 # STEP files
 !/step
