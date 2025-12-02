@@ -1,11 +1,22 @@
 *
-
-!.gitignore
-!/padstacks
+# Padstack files
 !/padstacks/*.pad
+!/padstacks/MISC/*.pad
+!/padstacks/MNPTH/*.pad
+!/padstacks/MPTH/*.pad
+!/padstacks/NPTH/*.pad
+!/padstacks/PTH/*.pad
+!/padstacks/VIA/*.pad
+
+# Footprint files
 !/symbols
 !/symbols/*.dra
 !/symbols/*.psm
 !/symbols/*.txt
+
+# STEP files
 !/step
 !/step/*
+
+# Etc.
+!.gitignore
