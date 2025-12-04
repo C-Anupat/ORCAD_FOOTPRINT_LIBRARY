@@ -18,6 +18,7 @@
 # Footprint files
 !/symbols
 !/symbols/*.dra
+/symbols/auto_backup.dra
 !/symbols/*.psm
 !/symbols/*.txt
 !/symbols/MISC
